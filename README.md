@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **banking project at Andersen**
 
-- 🌱 I’m currently learning **SwiftUI, Flutter**
+- 🌱 I’m currently learning **UIKit, SwiftUI, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnzhelikaMih?tab=repositories](https://github.com/AnzhelikaMih?tab=repositories)
 
