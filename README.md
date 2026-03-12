@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anzhelikamih&label=Profile%20views&color=0e75b6&style=flat" alt="anzhelikamih" /> </p>
 
-- 🔭 I’m currently working on **banking project at Andersen**
-
-- 🌱 I’m currently learning **SwiftUI, Flutter**
+- 🔭 I’m currently working on **real estate project at Andersen**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnzhelikaMih?tab=repositories](https://github.com/AnzhelikaMih?tab=repositories)
 
